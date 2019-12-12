@@ -6,5 +6,5 @@ i += 1
 end 
 end
 
-# call your method here!
+hello_t(["Tim",])# call your method here!
 
